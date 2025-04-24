@@ -1,6 +1,0 @@
-print("AAAAAAA             JJJJ")
-print("A    JJ               JJ")
-print("A             JJJJJJJJJJ")
-print("A           J          J")
-print("A                   JJ J")
-print("AAAAAAA        J       J")
