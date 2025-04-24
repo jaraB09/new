@@ -7,7 +7,7 @@ peso = 60
 altura = 1.70
 
 #Imprimir los Datos 
-imc = peso / altura**2
+ims = peso / altura**2
 
-print(imc)
+print(ims)
 
